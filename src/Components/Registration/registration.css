@@ -1,0 +1,10 @@
+form {
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 1px;
+    background-color: hsl(0, 0%, 100%);
+    border: 4px solid hsl(0, 0%, 90%);
+    display: grid;
+    grid-template-columns: 0fr 0fr;
+    gap: 5px;
+  }
